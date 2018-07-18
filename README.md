@@ -16,6 +16,6 @@ Load the game by navigating to the directory holding the tic_tac.rb file
 on the command line then type: "ruby tic_tac.rb"
 
 
-Pair-programming with Titouan Dessus
+Pair-programming with Titouan Dessus and Laetitia Pron.
 
 Pour tester Tic Tac Toe en ligne = https://repl.it/repls/BulkyVastMedia
